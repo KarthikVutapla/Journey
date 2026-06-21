@@ -9,7 +9,7 @@ Today's Tasks
 3. make worksheet 1 [ ]
 4. Make video solutions of worksheet 1 [ ]
 5. Make website where ws1 is uploadedp [ ]
-
+6. cs50x week 2 [ ]
 
 ```
 
