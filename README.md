@@ -1,3 +1,23 @@
+``` 
+Today's Tasks
+ 
+
+## Mastering Git / Github for Absolute Beginners Course:
+
+1. Make cheatsheet [ ]
+2. make and schedule atleast 3 videos [ ] [ ] [ ]
+3. make worksheet 1 [ ]
+4. Make video solutions of worksheet 1 [ ]
+5. Make website where ws1 is uploadedp [ ]
+
+
+```
+
+<br>
+
+---
+
+
 ```
 Start date : 13 June 2026 ( 13/06/2026 )
 ```
@@ -51,6 +71,8 @@ Name's ***Karthik Vutapla***, I will be Joining BITS Pilani in approx 2 months' 
 [ O ] Start DSA and do LeetCode Problems everyday
 
 <br>
+
+---
 
 # Theres so may Fields I want to excel in Hence one huge Proudct Backlog isn't enough for this.
 
