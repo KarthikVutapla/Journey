@@ -10,6 +10,7 @@ Today's Tasks
 4. Make video solutions of worksheet 1 [ ]
 5. Make website where ws1 is uploadedp [ ]
 6. cs50x week 2 [ ]
+7. upload 2nd video [x]
 
 ```
 
