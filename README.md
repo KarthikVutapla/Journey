@@ -4,8 +4,8 @@ Today's Tasks
 
 ## Mastering Git / Github for Absolute Beginners Course:
 
-1. Make cheatsheet [ ]
-2. make and schedule atleast 3 videos [ ] [ ] [ ]
+1. Make cheatsheet [o]
+2. make and schedule atleast 3 videos [o] [o] [o]
 3. make worksheet 1 [ ]
 4. Make video solutions of worksheet 1 [ ]
 5. Make website where ws1 is uploadedp [ ]
