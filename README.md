@@ -6,10 +6,10 @@ Today's Tasks
 
 1. Make cheatsheet [o]
 2. make and schedule atleast 3 videos [o] [o] [o]
-3. make worksheet 1 [ ]
-4. Make video solutions of worksheet 1 [ ]
-5. Make website where ws1 is uploadedp [ ]
-6. cs50x week 2 [ ]
+3. make worksheet 1 [o]
+4. Make video solutions of worksheet 1 [o]
+5. Make website where ws1 is uploadedp [o]
+6. cs50x week 2 [o]
 7. upload 2nd video [x]
 
 ```
