@@ -1,8 +1,6 @@
 ``` 
 Today's Tasks
  
-25th june work
-
 ## Mastering Git / Github for Absolute Beginners Course:
 
 1. Make cheatsheet [o]
