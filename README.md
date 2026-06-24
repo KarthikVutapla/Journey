@@ -1,6 +1,7 @@
 ``` 
 Today's Tasks
  
+I will do these tomorrow 
 
 ## Mastering Git / Github for Absolute Beginners Course:
 
@@ -10,7 +11,6 @@ Today's Tasks
 4. Make video solutions of worksheet 1 [o]
 5. Make website where ws1 is uploadedp [o]
 6. cs50x week 2 [o]
-7. upload 2nd video [x]
 
 ```
 
