@@ -1,7 +1,7 @@
 ``` 
 Today's Tasks
  
-I will do these tomorrow 
+25th june targets!
 
 ## Mastering Git / Github for Absolute Beginners Course:
 
