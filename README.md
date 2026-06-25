@@ -7,7 +7,7 @@ Today's Tasks
 2. make and schedule atleast 3 videos [o] [o] [o]
 3. make worksheet 1 [o]
 4. Make video solutions of worksheet 1 [o]
-5. Make website where ws1 is uploadedp [o]
+5. Make website where ws1 is uploaded [o]
 6. cs50x week 2 [o]
 
 ```
